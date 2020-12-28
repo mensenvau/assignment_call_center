@@ -1,8 +1,8 @@
 // token =  1412478493:AAGyt1EsEjrJbVrwFIo5jPeEaWFn5Wm6ntc
 const TelegramBot = require('node-telegram-bot-api');
-const token = '1412478493:AAGyt1EsEjrJbVrwFIo5jPeEaWFn5Wm6ntc';
+const token = 'YOU_TOKEN';
 const cy = "TechX";
-const admin = "879796829"
+const admin = "YOU_CHAT_ID"
 
 const bot = new TelegramBot(token, { polling: true });
 
