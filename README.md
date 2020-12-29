@@ -1,13 +1,12 @@
-# call_center
+# **Call center ** 
 
-Taxlab beraman (50000So'm Telegram : @mensenvau ) 
+> taxlab beraman (50000so'm telegram : @mensenvau ) 
 
-call center online telegram bot orqali . 
+call center online telegram bot orqali  aftamatlashtirish 
 
-Token , Chatid o'zgartring . 
+# **O'rnatish  ** 
 
-Savolar uchun telegram (@mensenvau) ga yozing 
+> YOU_TOKEN  , YOU_CHAT_ID  o'zgartiring  . 
+> Baza ```sql.sql``` ichida  uni import qiling .
 
-Baza sql.sql ichida . 
-npm install  .
-npm start . 
+> `npm install`  &&  `npm start` buruqlari 
