@@ -5,7 +5,6 @@
 call center online telegram bot orqali  aftamatlashtirish 
 
 
-[========]
 
 # O'rnatish  
 
@@ -15,7 +14,6 @@ call center online telegram bot orqali  aftamatlashtirish
 > `npm install`  &&  `npm start` buruqlari 
 
 
-[========]
 
 [Youtube video ](https://www.youtube.com/watch?v=0rgBR6gpKHw&list=PLXqNf4OGRcbYPJUnRvT55qohfC---efJk "Youtube video ")
 
