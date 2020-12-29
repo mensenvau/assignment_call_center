@@ -4,6 +4,9 @@
 
 call center online telegram bot orqali  aftamatlashtirish 
 
+
+[========]
+
 # O'rnatish  
 
 > YOU_TOKEN  , YOU_CHAT_ID  o'zgartiring  . 
@@ -11,6 +14,9 @@ call center online telegram bot orqali  aftamatlashtirish
 
 > `npm install`  &&  `npm start` buruqlari 
 
-```html
-<iframe width="725" height="408" src="https://www.youtube.com/embed/0rgBR6gpKHw?list=PLXqNf4OGRcbYPJUnRvT55qohfC---efJk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
+
+[========]
+
+[Youtube video ](https://www.youtube.com/watch?v=0rgBR6gpKHw&list=PLXqNf4OGRcbYPJUnRvT55qohfC---efJk "Youtube video ")
+
+
